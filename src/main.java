@@ -64,7 +64,7 @@ public class main {
         double resta = a - n;
         System.out.println("La diferencia de A ("+a+") - N ("+n+"): "+resta);
 
-
+        System.out.println("Valor numérico del carácter a = "+(int)c);
     }
 
     /*
